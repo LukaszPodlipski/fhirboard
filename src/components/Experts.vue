@@ -37,12 +37,12 @@ const isHovered = useElementHover(hoveralbeButton)
         <div class="linkedin-card">
           <img
             class="linkedin-card__avatar"
-            src="@/assets/images/linkedin/piotr-sedzik.jpg"
+            src="@/assets/images/linkedin/piotr-sobusiak.jpg"
             alt=""
           />
-          <span class="text-header-xs--bold text-grey-dark">Piotr Sędzik</span>
-          <span>CEO</span>
-          <a href="https://www.linkedin.com/in/piotr-s%C4%99dzik-ba000b109/" target="_blank">
+          <span class="text-header-xs--bold text-grey-dark">Piotr Sobusiak</span>
+          <span>CTO</span>
+          <a href="https://www.linkedin.com/in/piotr-sobusiak-8a373b98/" target="_blank">
             <button>
               <i class="pi pi-linkedin text-xl text-grey linkedin-hover"></i>
             </button>
@@ -51,12 +51,12 @@ const isHovered = useElementHover(hoveralbeButton)
         <div class="linkedin-card">
           <img
             class="linkedin-card__avatar"
-            src="@/assets/images/linkedin/piotr-sobusiak.jpg"
+            src="@/assets/images/linkedin/bartosz-michalak.jpg"
             alt=""
           />
-          <span class="text-header-xs--bold text-grey-dark">Piotr Sobusiak</span>
-          <span>CTO</span>
-          <a href="https://www.linkedin.com/in/piotr-sobusiak-8a373b98/" target="_blank">
+          <span class="text-header-xs--bold text-grey-dark">Bartosz Michalak</span>
+          <span>Tech Lead</span>
+          <a href="https://www.linkedin.com/in/bartosz-michalak-2a883371/" target="_blank">
             <button>
               <i class="pi pi-linkedin text-xl text-grey linkedin-hover"></i>
             </button>
@@ -93,7 +93,7 @@ const isHovered = useElementHover(hoveralbeButton)
   border: 1px solid #dee8fc;
   border-radius: 12px;
   display: flex;
-  padding: 24px;
+  padding: 18px;
   width: 180px;
   min-width: 180px;
   height: min-content;
