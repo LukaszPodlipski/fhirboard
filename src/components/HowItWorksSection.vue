@@ -11,18 +11,18 @@
           </span>
           <span class="text-caption-m text-grey-dark"
             >Whether you’re analyzing demographic patterns, tracking immunization trends, or
-            creating custom healthcare analytics, Fhirboard provides the necessary tools to
+            creating custom healthcare analytics, FHIR Board provides the necessary tools to
             transform complex FHIR data into meaningful visualizations.</span
           >
           <span class="text-caption-m text-grey-dark"
-            >In short - Fhirboard converts FHIR ViewDefinitions into SQL queries that process local
+            >In short, FHIR Board converts FHIR ViewDefinitions into SQL queries that process local
             FHIR data files through DuckDB, then visualizes the results through Apache Superset,
             allowing users to analyze healthcare data patterns without writing complex code.
           </span>
         </div>
         <div class="card__video-container column h-max">
           <video controls>
-            <source src="@/assets/videos/howItWorks.mov#t=0.1" type="video/mp4" />
+            <source src="@/assets/videos/howItWorks.mp4#t=0.1" type="video/mp4" />
           </video>
         </div>
       </div>

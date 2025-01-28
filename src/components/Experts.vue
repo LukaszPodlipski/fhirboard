@@ -15,13 +15,13 @@ const isHovered = useElementHover(hoveralbeButton)
         <span class="text-caption-l">Built by Momentum’s Healthcare experts: </span>
         <span class="text-left text-caption-m text-grey-dark"
           >At Momentum, we believe in elevating humanity through technology. Our work supports
-          longevity and continuous life quality improvement by developing the most ingenious,
-          cutting-edge solutions in healthcare. We're passionate about creating a world where no one
-          feels helpless because of lack of access to medical information or diagnostics.
+          longevity and continuous improvements in quality of life by developing ingenious,
+          cutting-edge solutions in healthcare. We are passionate about creating a world where no
+          one feels helpless due to a lack of access to medical information or diagnostics.
         </span>
         <span class="text-left text-caption-m text-grey-dark"
           >We combine deep healthcare expertise with technical excellence to deliver solutions that
-          are secure, scalable, and compliant with industry standards like HIPAA, FHIR and GDPR.
+          are secure, scalable, and compliant with industry standards such as HIPAA, FHIR, and GDPR.
         </span>
         <a
           ref="hoveralbeButton"

@@ -6,26 +6,24 @@
       </h2>
       <p class="text-header-s text-center text-grey">
         Particularly valuable for healthcare data analysts and organizations working with FHIR
-        standards, Fhirboard simplifies the typically complex process of FHIR data analysis. Future
-        developments include AI-powered generation of ViewDefinitions from text descriptions, making
-        the tool even more accessible to users regardless of their FHIR expertise level.
+        standards, FHIR Board simplifies the typically complex process of FHIR data analysis.
       </p>
     </div>
     <div class="flex gap-4 view-wrapper flex-wrap">
       <div class="card">
-        <span class="text-header-s--bold">For HealthTech startups</span>
+        <span class="text-header-s--bold">For HealthTech Startups</span>
         <span class="text-caption-m text-grey-dark"
-          >Healthcare startups can leverage FHIR board to rapidly prototype and validate their data
+          >Healthcare startups can leverage FHIR Board to rapidly prototype and validate their data
           analytics solutions without investing significant resources in building custom FHIR data
           processing infrastructure.
         </span>
       </div>
       <div class="card">
-        <span class="text-header-s--bold">For Healthcare providers</span>
+        <span class="text-header-s--bold">For Healthcare Providers</span>
         <span class="text-caption-m text-grey-dark"
-          >Healthcare providers can use Fhirboard to quickly visualize and analyze their patient
-          data for trends in demographics, immunizations, and other clinical patterns without
-          requiring deep technical expertise in FHIR or database management.
+          >Healthcare providers can use FHIR Board to quickly visualize and analyze patient data,
+          identifying trends in demographics, immunizations, and other clinical patterns. All
+          without requiring deep technical expertise in FHIR or database management.
         </span>
       </div>
     </div>
