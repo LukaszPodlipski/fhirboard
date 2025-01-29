@@ -2,7 +2,7 @@
   <div id="healthStack" class="hero-section flex flex-col gap-36">
     <div class="flex flex-col justify-center gap-8 max-w-[650px] center">
       <h2 class="text-header-2xl leading-10 text-center">
-        How Does FHIR Board Speed Up Your Work with FHIR?
+        How does FHIR Board speed up your work with FHIR?
       </h2>
       <div class="flex flex-col justify-center gap-2 max-w-[650px] mt-12">
         <p class="text-header-m text-center">FHIR Board accelerates your workflow by:</p>

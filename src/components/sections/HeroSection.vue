@@ -10,7 +10,7 @@
         visualization workflows. The tool bridges the gap between raw FHIR datasets and actionable
         insights by providing a user-friendly interface for working with FHIR ViewDefinitions.
       </p>
-      <a target="_blank" href="https://github.com/the-momentum/healthstack">
+      <a target="_blank" href="https://github.com/the-momentum/fhirboard">
         <button class="app-button text-header-xs--bold">Check Out Our Open-Source Tools</button>
       </a>
     </div>

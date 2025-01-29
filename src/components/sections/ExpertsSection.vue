@@ -13,11 +13,12 @@ const isHovered = useElementHover(hoveralbeButton)
       <div class="flex flex-col gap-8 flex-1 min-w-[300px]">
         <img src="@/assets/images/momentum-logo.svg" class="max-w-[200px]" />
         <span class="text-caption-l">Built by Momentum’s Healthcare experts: </span>
-        <span class="text-left text-caption-m text-grey-dark"
-          >At Momentum, we believe in elevating humanity through technology. Our work supports
-          longevity and continuous improvements in quality of life by developing ingenious,
-          cutting-edge solutions in healthcare. We are passionate about creating a world where no
-          one feels helpless due to a lack of access to medical information or diagnostics.
+        <span class="text-left text-caption-m text-grey-dark">
+          At Momentum, we aim to modernize care delivery with exceptional software. We believe that
+          an open, connected healthcare application ecosystem will drive higher-quality care and
+          lower costs for healthcare providers, clinics, and patients alike. To help make this
+          happen, we provide a comprehensive set of tools and modules that help build healthcare
+          applications in days instead of months.
         </span>
         <span class="text-left text-caption-m text-grey-dark"
           >We combine deep healthcare expertise with technical excellence to deliver solutions that
